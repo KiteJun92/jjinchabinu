@@ -1,0 +1,2 @@
+# jjinchabinu
+use Python + Django
